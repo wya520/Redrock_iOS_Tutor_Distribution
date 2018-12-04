@@ -8,7 +8,8 @@
 ## 填写步骤
 * 这一步骤已经默认你们安装了Git(其实这个并不需要你们安装，Xcode集成了)并注册了Github账号
 1. fork（复制repository（仓库）到自己的账号上）
-  * 点击右上方的fork按钮
+        
+	* 点击右上方的fork按钮
 	* 回到自己的账号首页你会发现首页多了一个repository	
 2. 更改branch（分支）
 	* 进入你帐号下的repository，点击branch按钮，选择develop分支
